@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vezdekod10</string>
+    <string-array name="availability">
+        <item>Всем пользователям</item>
+        <item>Только друзьям</item>
+        <item>Друзьям и друзьям друзей</item>
+    </string-array>
+</resources>
